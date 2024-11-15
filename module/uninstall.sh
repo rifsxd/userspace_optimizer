@@ -1,0 +1,1 @@
+rm -f /data/adb/userspace_optimizer.log
